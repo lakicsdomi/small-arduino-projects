@@ -31,6 +31,24 @@ Welcome to the **Small Arduino Projects** repository! This repository contains v
 
    **File**: [`parkingsonar.ino`](https://github.com/lakicsdomi/small-arduino-projects/blob/main/parkingsonar.ino)
 
+   ---
+
+   ### 3. **Motion Sensor**
+   - **Description**: A motion sensor project that uses an HC-S501 PIR motion sensor to detect movement. When motion is detected, a green LED flashes, and a buzzer emits a sound. The system includes a button to toggle the motion sensor on and off, and initialization feedback is provided via a blue LED and buzzer.
+   - **Components Used**:
+       - HC-S501 PIR Motion Sensor
+       - Red, Green, and Blue LEDs
+       - Buzzer
+       - Button
+   - **Features**:
+       - Motion detection with visual (LED) and audio (buzzer) feedback.
+       - On/Off toggle functionality using a button.
+       - Initialization process with status indicators.
+   - **Status**: Fully functional.
+
+   **File**: [`MotionSensor.ino`](https://github.com/lakicsdomi/small-arduino-projects/blob/main/MotionSensor.ino)
+
+
 ---
 
 ## How to Use
