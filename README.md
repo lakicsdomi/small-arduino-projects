@@ -7,9 +7,9 @@ Welcome to the **Small Arduino Projects** repository! This repository contains v
 ## Projects in This Repository
 
 ### 1. **Temperature and Humidity Sensor**
-   - **Description**: A simple project to read and display temperature and humidity values.
-   - **Purpose**: Learn how to interface sensors with Arduino and process their inputs.
-   - **Status**: Currently includes the basic setup for further development.
+   - **Description**: A project to read and display temperature and humidity values using a DHT11 sensor and an LED dot matrix display. The display visually represents temperature, and debugging output shows temperature and humidity values in the serial monitor.
+   - **Purpose**: Demonstrates how to interface sensors with Arduino, process their inputs, and provide both visual and debugging outputs. I also wanted to check the temperature and humidity in my room during winter. :)
+   - **Status**: Fully functional.
 
    **File**: [`temperature_and_humidity.ino`](https://github.com/lakicsdomi/small-arduino-projects/blob/main/temperature_and_humidity.ino)
 
